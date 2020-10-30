@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+  <Objekt naziv="Restoran Skola" oib="11223344596" lat="45.842" lng="17.388"
+ tip="restoran" radno_vrijeme="7-16" adresa="Matije Gupca 78" grad="Virovitica">
+    <Prihod mjesec="1">1400</Prihod>
+    <Prihod mjesec="2">1771</Prihod>
+    <Prihod mjesec="3">2102</Prihod>
+    <Prihod mjesec="4">809</Prihod>
+    <Prihod mjesec="5">1379</Prihod>
+    <Prihod mjesec="6">706</Prihod>
+    <Prihod mjesec="7">2116</Prihod>
+    <Prihod mjesec="8">1840</Prihod>
+    <Prihod mjesec="9">797</Prihod>
+    <Prihod mjesec="10">2176</Prihod>
+    <Prihod mjesec="11">1009</Prihod>
+    <Prihod mjesec="12">1515</Prihod>
+  </Objekt>
+  <Objekt naziv="Caffe bar Skola" oib="1122334469" lat="45.842" lng="17.388" tip="caffe
+bar" radno_vrijeme="7-16" adresa="Matije Gupca 78" grad="Virovitica">
+    <Prihod mjesec="1">1703</Prihod>
+    <Prihod mjesec="2">2058</Prihod>
+    <Prihod mjesec="3">1765</Prihod>
+    <Prihod mjesec="4">862</Prihod>
+    <Prihod mjesec="5">1818</Prihod>
+    <Prihod mjesec="6">923</Prihod>
+    <Prihod mjesec="7">817</Prihod>
+    <Prihod mjesec="8">885</Prihod>
+    <Prihod mjesec="9">738</Prihod>
+    <Prihod mjesec="10">917</Prihod>
+    <Prihod mjesec="11">1626</Prihod>
+    <Prihod mjesec="12">1090</Prihod>
+  </Objekt>
+  <Objekt naziv="Restoran MFM" oib="52367891423" lat="45.235" lng="17.569" tip="restoran"
+ radno_vrijeme="8-20" adresa="Ferde Rusana 8" grad="Virovitica">
+    <Prihod mjesec="1">840</Prihod>
+    <Prihod mjesec="2">1036</Prihod>
+    <Prihod mjesec="3">1432</Prihod>
+    <Prihod mjesec="4">2094</Prihod>
+    <Prihod mjesec="5">1725</Prihod>
+    <Prihod mjesec="6">2033</Prihod>
+    <Prihod mjesec="7">1289</Prihod>
+    <Prihod mjesec="8">2268</Prihod>
+    <Prihod mjesec="9">1827</Prihod>
+    <Prihod mjesec="10">1057</Prihod>
+    <Prihod mjesec="11">2468</Prihod>
+    <Prihod mjesec="12">1249</Prihod>
+  </Objekt>
+  <Objekt naziv="Restoran Dvorac" oib="85698472665" lat="45.236" lng="17.359"
+tip="restoran" radno_vrijeme="8-20" adresa="Trg Bana Josipa Jelacica 23"
+grad="Virovitica">
+    <Prihod mjesec="1">1505</Prihod>
+    <Prihod mjesec="2">1687</Prihod>
+    <Prihod mjesec="3">2455</Prihod>
+    <Prihod mjesec="4">2117</Prihod>
+    <Prihod mjesec="5">787</Prihod>
+    <Prihod mjesec="6">1511</Prihod>
+    <Prihod mjesec="7">1255</Prihod>
+    <Prihod mjesec="8">1629</Prihod>
+    <Prihod mjesec="9">1025</Prihod>
+    <Prihod mjesec="10">2142</Prihod>
+    <Prihod mjesec="11">2347</Prihod>
+    <Prihod mjesec="12">810</Prihod>
+  </Objekt>
+  <Objekt naziv="Night Club Bolero" oib="32256987745" lat="45.810" lng="17.111"
+ tip="caffe bar" radno_vrijeme="6-24" adresa="Ljudevita Gaja 4" grad="Virovitica">
+    <Prihod mjesec="1">912</Prihod>
+    <Prihod mjesec="2">2019</Prihod>
+    <Prihod mjesec="3">948</Prihod>
+    <Prihod mjesec="4">2355</Prihod>
+    <Prihod mjesec="5">1079</Prihod>
+    <Prihod mjesec="6">944</Prihod>
+    <Prihod mjesec="7">1926</Prihod>
+    <Prihod mjesec="8">1292</Prihod>
+    <Prihod mjesec="9">1618</Prihod>
+    <Prihod mjesec="10">1340</Prihod>
+    <Prihod mjesec="11">2384</Prihod>
+    <Prihod mjesec="12">1786</Prihod>
+  </Objekt>
+  <Objekt naziv="Pub" oib="22369744152" lat="45.621" lng="17.333" tip="caffe bar"
+ radno_vrijeme="7-22" adresa="Matije Gupca 13" grad="Virovitica">
+    <Prihod mjesec="1">1245</Prihod>
+    <Prihod mjesec="2">2125</Prihod>
+    <Prihod mjesec="3">781</Prihod>
+    <Prihod mjesec="4">1456</Prihod>
+    <Prihod mjesec="5">1765</Prihod>
+    <Prihod mjesec="6">1289</Prihod>
+    <Prihod mjesec="7">1073</Prihod>
+    <Prihod mjesec="8">934</Prihod>
+    <Prihod mjesec="9">1463</Prihod>
+    <Prihod mjesec="10">2271</Prihod>
+    <Prihod mjesec="11">1596</Prihod>
+    <Prihod mjesec="12">2273</Prihod>
+  </Objekt>
+  <Objekt naziv="Night club Jack" oib="87411325922" lat="45.963" lng="17.597" tip="caffe
+bar" radno_vrijeme="6-24" adresa="Trg kralja Tomislava 9" grad="Virovitica">
+    <Prihod mjesec="1">883</Prihod>
+    <Prihod mjesec="2">2272</Prihod>
+    <Prihod mjesec="3">1125</Prihod>
+    <Prihod mjesec="4">1037</Prihod>
+    <Prihod mjesec="5">1686</Prihod>
+    <Prihod mjesec="6">1727</Prihod>
+    <Prihod mjesec="7">2279</Prihod>
+    <Prihod mjesec="8">2125</Prihod>
+    <Prihod mjesec="9">1383</Prihod>
+    <Prihod mjesec="10">895</Prihod>
+    <Prihod mjesec="11">1227</Prihod>
+    <Prihod mjesec="12">718</Prihod>
+  </Objekt>
+  <Objekt naziv="Caffe Bar Berny" oib="30026985114" lat="45.159" lng="17.310" tip="caffe
+bar" radno_vrijeme="7-22" adresa="Ljudevita Gaja 22" grad="Virovitica">
+    <Prihod mjesec="1">887</Prihod>
+    <Prihod mjesec="2">2151</Prihod>
+    <Prihod mjesec="3">917</Prihod>
+    <Prihod mjesec="4">1223</Prihod>
+    <Prihod mjesec="5">1253</Prihod>
+    <Prihod mjesec="6">2454</Prihod>
+    <Prihod mjesec="7">2007</Prihod>
+    <Prihod mjesec="8">2337</Prihod>
+    <Prihod mjesec="9">1121</Prihod>
+    <Prihod mjesec="10">1689</Prihod>
+    <Prihod mjesec="11">1553</Prihod>
+    <Prihod mjesec="12">1236</Prihod>
+  </Objekt>
+  <Objekt naziv="Restoran Luka" oib="19952365871" lat="45.852" lng="17.023"
+ tip="restoran" radno_vrijeme="7-18" adresa="Vukovarska cesta 3" grad="Virovitica">
+    <Prihod mjesec="1">1788</Prihod>
+    <Prihod mjesec="2">1001</Prihod>
+    <Prihod mjesec="3">1748</Prihod>
+    <Prihod mjesec="4">2000</Prihod>
+    <Prihod mjesec="5">1555</Prihod>
+    <Prihod mjesec="6">2445</Prihod>
+    <Prihod mjesec="7">2316</Prihod>
+    <Prihod mjesec="8">2000</Prihod>
+    <Prihod mjesec="9">1443</Prihod>
+    <Prihod mjesec="10">1104</Prihod>
+    <Prihod mjesec="11">2369</Prihod>
+    <Prihod mjesec="12">1498</Prihod>
+  </Objekt>
+  <Objekt naziv="Kavana Medena" oib="14112369874" lat="45.126" lng="17.922" tip="caffe
+bar" radno_vrijeme="7-22" adresa="Trg bana Joispa Jelačića 3" grad="Virovitica">
+    <Prihod mjesec="1">1983</Prihod>
+    <Prihod mjesec="2">1357</Prihod>
+    <Prihod mjesec="3">1451</Prihod>
+    <Prihod mjesec="4">1097</Prihod>
+    <Prihod mjesec="5">1128</Prihod>
+    <Prihod mjesec="6">1912</Prihod>
+    <Prihod mjesec="7">2167</Prihod>
+    <Prihod mjesec="8">1287</Prihod>
+    <Prihod mjesec="9">1254</Prihod>
+    <Prihod mjesec="10">2368</Prihod>
+    <Prihod mjesec="11">1641</Prihod>
+    <Prihod mjesec="12">700</Prihod>
+  </Objekt>
+</dataset>
