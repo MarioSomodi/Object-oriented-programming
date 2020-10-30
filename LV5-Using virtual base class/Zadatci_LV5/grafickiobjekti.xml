@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+  <Krugovi>
+    <Krug polumjer="5.33" boja="crveni"></Krug>
+    <Krug polumjer="5.65" boja="plavi"></Krug>
+    <Krug polumjer="8.21" boja="zuti"></Krug>
+    <Krug polumjer="14.54" boja="plavi"></Krug>
+    <Krug polumjer="5.44" boja="zeleni"></Krug>
+    <Krug polumjer="5.38" boja="crveni"></Krug>
+    <Krug polumjer="15.00" boja="plavi"></Krug>
+    <Krug polumjer="11.33" boja="zuti"></Krug>
+    <Krug polumjer="5.23" boja="crveni"></Krug>
+    <Krug polumjer="5.23" boja="zeleni"></Krug>
+  </Krugovi>
+  <Kvadrati>
+    <Kvadrat stranica="6.78" boja="crveni"></Kvadrat>
+    <Kvadrat stranica="9.34" boja="plavi"></Kvadrat>
+    <Kvadrat stranica="12.23" boja="zuti"></Kvadrat>
+    <Kvadrat stranica="9.98" boja="crveni"></Kvadrat>
+    <Kvadrat stranica="8.21" boja="zeleni"></Kvadrat>
+    <Kvadrat stranica="12.09" boja="crveni"></Kvadrat>
+    <Kvadrat stranica="4.34" boja="plavi"></Kvadrat>
+    <Kvadrat stranica="12.87" boja="zuti"></Kvadrat>
+    <Kvadrat stranica="11.33" boja="plavi"></Kvadrat>
+    <Kvadrat stranica="12.12" boja="zeleni"></Kvadrat>
+  </Kvadrati>
+  <Trokuti>
+    <Trokut stranica="4.56" boja="crveni"></Trokut>
+    <Trokut stranica="10.02" boja="plavi"></Trokut>
+    <Trokut stranica="16.5" boja="zuti"></Trokut>
+    <Trokut stranica="4.23" boja="zuti"></Trokut>
+    <Trokut stranica="4.87" boja="zeleni"></Trokut>
+    <Trokut stranica="14.32" boja="crveni"></Trokut>
+    <Trokut stranica="17.78" boja="plavi"></Trokut>
+    <Trokut stranica="17.54" boja="zuti"></Trokut>
+    <Trokut stranica="4.96" boja="crveni"></Trokut>
+    <Trokut stranica="18.54" boja="zeleni"></Trokut>
+  </Trokuti>
+</dataset>
