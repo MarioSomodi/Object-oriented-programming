@@ -1,4 +1,7 @@
 # Object oriented programming
+## Technologies used
+* Extensible Markup Language (XML)
+* C++
 ## Things I learned
 * Classes.
 * Static and dynamic creation of objects.
